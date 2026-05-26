@@ -49,7 +49,7 @@
 - (作者同C#)
 
 [11] Fortran之父 (John Warner Backus)
-- 已於2007年3月17日去世。
+- 由於Fortran之父已於2007年3月17日去世，無資料。
 
 [12] Scratch之創造者 (麻省理工媒體實驗室 終身幼稚園組)
 - 由於作者被標示為，麻省理工媒體實驗室 終身幼稚園組，還在確認是否有特定開發者。
@@ -77,7 +77,7 @@
 - 連結：https://www.youtube.com/watch?v=PLQs_hHTzSk
 
 [19] Ada之父 (Jean David Ichbiah)
-- 已於2007年去世，無資料。
+- 由於Ada之父已於2007年去世，無資料。
 
 [20] MATLAB之父 (Cleve Barry Moler)
-- 已於近期去世，且暫時查無相關資訊。
+- MATLAB之父在近期去世，且暫時查無相關資訊。
