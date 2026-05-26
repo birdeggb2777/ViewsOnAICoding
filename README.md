@@ -20,7 +20,7 @@
 
 [3] Java之父 (James Gosling)
 - 連結更新於：2026年02月左右
-- 看法：**嚴正反對**，他表示這是竊盜行為，擁有原創性的才是最後的贏家。
+- 看法：**強烈反對**，他表示這是竊盜行為，擁有原創性的才是最後的贏家。
 - 連結：https://www.linkedin.com/posts/jamesgosling_the-biggest-ai-coverup-just-got-exposed-activity-7416903997854273536-MekC
 
 [4] C++之父 (Bjarne Stroustrup)
